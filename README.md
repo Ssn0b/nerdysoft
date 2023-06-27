@@ -1,3 +1,3 @@
 # nerdysoft
-Vladyslav Levchuk
+# Vladyslav Levchuk
 Test task for NerdySoft Trainee Java developer position.
